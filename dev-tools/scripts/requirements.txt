@@ -6,3 +6,4 @@ ics>=0.4
 console-menu==0.5.1
 PyGithub
 jira
+certifi>=2023.7.22 # not directly required, pinned by Snyk to avoid a vulnerability
